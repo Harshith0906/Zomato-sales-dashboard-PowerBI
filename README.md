@@ -1,19 +1,19 @@
-## Zomato-sales-dashboard-PowerBI
+# Zomato-sales-dashboard-PowerBI
 Overview
 This project presents an in-depth analysis of Zomato sales data using Microsoft Power BI. The dashboard provides key insights into sales trends, customer behavior, revenue distribution, and performance metrics, enabling data-driven decision-making.
 
-# Features
+## Features
 ✔️ Sales Overview – Total revenue, orders, and trends over time.
 ✔️ Customer Insights – Understanding purchase patterns and demographics.
 ✔️ Top-Selling Items – Identifying the most popular dishes.
 ✔️ Geographical Analysis – Sales distribution across different regions.
 ✔️ Delivery Performance – Evaluating order fulfillment efficiency.
 
-# Technology Used
+## Technology Used
 -> Power BI – Data visualization and dashboard creation.
 -> Excel / CSV – Data source for analysis.
 
-# Installation & Usage
+## Installation & Usage
 Clone the repository
 Open Zomato_Final.pbix in Power BI Desktop
 Ensure the data sources are correctly linked
