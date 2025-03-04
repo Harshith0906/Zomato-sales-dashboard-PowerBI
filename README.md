@@ -4,9 +4,9 @@ This project presents an in-depth analysis of Zomato sales data using Microsoft 
 
 ## Features
 ✔️ Sales Overview – Total revenue, orders, and trends over time.<br/>
-✔️ Customer Insights – Understanding purchase patterns and demographics.
-✔️ Top-Selling Items – Identifying the most popular dishes.
-✔️ Geographical Analysis – Sales distribution across different regions.
+✔️ Customer Insights – Understanding purchase patterns and demographics.<br/>
+✔️ Top-Selling Items – Identifying the most popular dishes.<br/>
+✔️ Geographical Analysis – Sales distribution across different regions.<br/>
 ✔️ Delivery Performance – Evaluating order fulfillment efficiency.
 
 ## Technology Used
