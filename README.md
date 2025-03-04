@@ -10,11 +10,11 @@ This project presents an in-depth analysis of Zomato sales data using Microsoft 
 ✔️ Delivery Performance – Evaluating order fulfillment efficiency.
 
 ## Technology Used
--> Power BI – Data visualization and dashboard creation.
+-> Power BI – Data visualization and dashboard creation.<br/>
 -> Excel / CSV – Data source for analysis.
 
 ## Installation & Usage
-Clone the repository
-Open Zomato_Final.pbix in Power BI Desktop
-Ensure the data sources are correctly linked
+Clone the repository<br/>
+Open Zomato_Final.pbix in Power BI Desktop<br/>
+Ensure the data sources are correctly linked<br/>
 Refresh the data and explore insights
